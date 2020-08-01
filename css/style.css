@@ -3119,6 +3119,7 @@ h6 {
 /*----------------------------------------------------*/
 /* About Area css
 ============================================================================================ */
+
 .about-area {
   position: relative; }
   .about-area:after {
@@ -3131,6 +3132,7 @@ h6 {
     background-repeat: no-repeat;
     right: 0;
     top: 0; }
+    
   @media (max-width: 1199px) {
     .about-area:after {
       right: -44px;
@@ -3230,7 +3232,7 @@ h6 {
       position: absolute;
       width: 50%;
       height: 100%;
-      background-image: url(../img/logo/);
+      background-image: url(../img/logo/a.jpg);
       background-position: center right;
       background-repeat: no-repeat;
       left: 465px;
